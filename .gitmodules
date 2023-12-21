@@ -1,0 +1,52 @@
+[submodule "Drivers/STM32H7xx_HAL_Driver"]
+	path = Drivers/STM32H7xx_HAL_Driver
+	url = https://github.com/STMicroelectronics/stm32h7xx_hal_driver.git
+	branch = master
+[submodule "Drivers/CMSIS/Device/ST/STM32H7xx"]
+	path = Drivers/CMSIS/Device/ST/STM32H7xx
+	url = https://github.com/STMicroelectronics/cmsis_device_h7
+	branch = master
+[submodule "Middlewares/ST/threadx"]
+	path = Middlewares/ST/threadx
+	url = https://github.com/STMicroelectronics/stm32_mw_threadx
+	branch = main
+[submodule "Middlewares/ST/usbx"]
+	path = Middlewares/ST/usbx
+	url = https://github.com/STMicroelectronics/stm32_mw_usbx
+	branch = main
+[submodule "Middlewares/ST/netxduo"]
+	path = Middlewares/ST/netxduo
+	url = https://github.com/STMicroelectronics/stm32_mw_netxduo.git
+	branch = main
+[submodule "Middlewares/ST/levelx"]
+	path = Middlewares/ST/levelx
+	url = https://github.com/STMicroelectronics/stm32_mw_levelx.git
+	branch = main
+[submodule "Middlewares/ST/filex"]
+	path = Middlewares/ST/filex
+	url = https://github.com/STMicroelectronics/stm32_mw_filex.git
+	branch = main
+[submodule "Middlewares/ST/cmsis_rtos_threadx"]
+	path = Middlewares/ST/cmsis_rtos_threadx
+	url = https://github.com/STMicroelectronics/stm32_mw_cmsis_rtos_tx.git
+	branch = main
+[submodule "Drivers/BSP/STM32H747I-DISCO"]
+	path = Drivers/BSP/STM32H747I-DISCO
+	url = https://github.com/STMicroelectronics/stm32h747i-disco-bsp.git
+	branch = main
+[submodule "Drivers/BSP/STM32H743I-EVAL"]
+	path = Drivers/BSP/STM32H743I-EVAL
+	url = https://github.com/STMicroelectronics/stm32h743i-eval-bsp
+	branch = main
+[submodule "Drivers/BSP/STM32H735G-DK"]
+	path = Drivers/BSP/STM32H735G-DK
+	url = https://github.com/STMicroelectronics/stm32h735g-dk-bsp.git
+	branch = main
+[submodule "Drivers/BSP/STM32H7xx_Nucleo"]
+	path = Drivers/BSP/STM32H7xx_Nucleo
+	url = https://github.com/STMicroelectronics/stm32h7xx-nucleo-bsp.git
+	branch = main
+[submodule "Drivers/BSP/Components/mfxstm32l152"]
+	path = Drivers/BSP/Components/mfxstm32l152
+	url = https://github.com/STMicroelectronics/stm32-mfxstm32l152.git
+	branch = main
